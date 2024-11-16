@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never">
+  <!-- This style was edited with the Visual CSL Editor (https://editor.citationstyles.org/visualEditor/) -->
+  <info>
+    <title>Huntington Library</title>
+    <id>http://www.zotero.org/styles/huntington-library</id>
+    <link rel="self" href="http://www.zotero.org/styles/huntington-library"/>
+    <updated>2024-11-01T04:46:53+00:00</updated>
+  </info>
+  <citation>
+    <layout/>
+  </citation>
+  <bibliography>
+    <layout>
+      <choose>
+        <if variable="title-short">
+          <text variable="title-short"/>
+        </if>
+        <else>
+          <text variable="title"/>
+        </else>
+      </choose>
+      <text variable="call-number" prefix=", "/>
+      <text variable="URL" prefix=", "/>
+    </layout>
+  </bibliography>
+</style>
