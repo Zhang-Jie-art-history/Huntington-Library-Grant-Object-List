@@ -2,8 +2,7 @@ The requirement for a Huntington Fellowship entails:
 
 a list of the specific Huntington materials to be consulted (no more than 350 words)
 
-Please list the Huntington collections you will consult for your project. Please include collection and/or book titles, as well as call numbers and finding aid links when available.
-If you hit the word limit (350), please list call numbers with shortened titles, and use permanent links from the Huntington catalog.
+"Please list the Huntington collections you will consult for your project. Please include collection and/or book titles, as well as call numbers and finding aid links when available. If you hit the word limit (350), please list call numbers with shortened titles, and use permanent links from the Huntington catalog."
 
 Step 1. Download csl file. The logic is 1) If there is short title, use short title. If no short title, use full title + 2) Call number of museum object / rare book + 3) catalogue URL.
 
