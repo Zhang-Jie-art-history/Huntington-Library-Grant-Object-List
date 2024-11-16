@@ -1,5 +1,7 @@
 The requirement for a Huntington Fellowship entails: 
+
 Collections to Consult
+
 Please list the Huntington collections you will consult for your project. Please include collection and/or book titles, as well as call numbers and finding aid links when available.
 If you hit the word limit (350), please list call numbers with shortened titles, and use permanent links from the Huntington catalog.
 
