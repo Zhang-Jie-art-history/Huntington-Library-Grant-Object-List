@@ -13,6 +13,6 @@ Click on the “+” sign below the list of installed styles.
 In the file selection dialogue that opens, navigate to the .csl file you just downloaded and open it. 
 This will install my new style into the Zotero data directory.
 
-Step 3. Select all Huntington Library art works, rare books, manuscript etc that you want to view during your visit. in Zotero. Right click > generate bibliography from item > Scroll down in "citation style" to select "huntington library". 
+Step 3. Select all Huntington Library art works, rare books, manuscript etc that you want to view during your visit in Zotero. Right click > generate bibliography from item > Scroll down in "citation style" to select "huntington library". 
 Output mode: select 'bibliography'.
 Output method: select 'copy to clip board'. 
